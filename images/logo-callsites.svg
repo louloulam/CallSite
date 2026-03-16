@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Syne:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Fond noir -->
+  <rect width="400" height="200" fill="#0a0a0a" rx="16"/>
+
+  <!-- Texte CallSites -->
+  <text
+    x="40"
+    y="118"
+    font-family="Syne, Arial Black, sans-serif"
+    font-weight="800"
+    font-size="68"
+    letter-spacing="-2"
+    fill="#ffffff"
+  >CallSites</text>
+
+  <!-- Point gris -->
+  <text
+    x="365"
+    y="118"
+    font-family="Syne, Arial Black, sans-serif"
+    font-weight="800"
+    font-size="68"
+    fill="#a0a0a0"
+  >.</text>
+
+  <!-- Tagline -->
+  <text
+    x="40"
+    y="152"
+    font-family="Syne, Arial, sans-serif"
+    font-weight="700"
+    font-size="14"
+    letter-spacing="3"
+    fill="#a0a0a0"
+  >SITES VITRINES · ARTISANS &amp; ENTREPRISES</text>
+
+  <!-- Ligne décorative fine -->
+  <line x1="40" y1="135" x2="360" y2="135" stroke="#222" stroke-width="1"/>
+</svg>
